@@ -1,9 +1,4 @@
-"""scrapper.py: Το παρακάτω script διαβάζει τον καιρό από το freemeteo.gr 
-                για τα νησιά Ρόδο, Μεγίστη, Κάρπαθο και Σύμα και δημιουργεί 
-                τον πίνακα καιρού της Μεγάλης Αναφοράς. """
-
 __author__      = "Alex Perrakis"
-__copyright__   = "Research and Informatics Corps,  95th National Guard Higher Command, 2023, Rhodes"
 __date__        = "30-03-2023"
 
 import requests
